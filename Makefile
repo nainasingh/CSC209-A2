@@ -1,4 +1,4 @@
-FLAGS = -Wall -g
+CFLAGS = -Wall -g
 
 polls: polls.o lists.o 
 	gcc $(CFLAGS) -o polls polls.o lists.o

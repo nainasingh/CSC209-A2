@@ -1,4 +1,4 @@
- #define MAX_NAME 32
+#define MAX_NAME 32
 typedef struct participant {
    char name[MAX_NAME];
    char *comment;

@@ -1,4 +1,4 @@
-dd_poll meeting 3
+add_poll meeting 3
 configure_poll meeting am pm eve
 list_polls
 add_poll csc209tutorial 2
